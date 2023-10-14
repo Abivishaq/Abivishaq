@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abivishaq.
 - 👀 I’m interested in AI part of robotics.
-- 🌱 I’m currently learning Reinforcement learning.
+- 🌱 I’m currently working on grasping algorithms for household objects.
 - 💞️ I’m looking to collaborate on any robotics applications particularly the AI part.
 - 📫 How to reach me, b.abivishaq@gmail.com
 
